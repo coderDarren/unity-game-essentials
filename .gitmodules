@@ -1,0 +1,3 @@
+[submodule "UnityGameEssentials\\Assets\\Scripts\\UnityCore"]
+	path = UnityGameEssentials\\Assets\\Scripts\\UnityCore
+	url = git@github.com:coderDarren/UnityCore.git
