@@ -49,40 +49,41 @@
      <Compile Include="Assets\Scripts\UnityCore\Data\DataController.cs" />
      <Compile Include="Assets\Scripts\UnityCore\Menu\Page.cs" />
      <Compile Include="Assets\Scripts\UnityCore\Menu\PageController.cs" />
+     <Compile Include="Assets\Scripts\UnityCore\Menu\PageType.cs" />
      <Compile Include="Assets\Scripts\UnityCore\Scene\SceneController.cs" />
      <Compile Include="Assets\Scripts\UnityCore\Session\SessionController.cs" />
  <Reference Include="Unity.Timeline.Editor">
- <HintPath>C:/Users/oneda/Documents/github/renaissance-coders/unity-game-essentials/UnityGameEssentials/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+ <HintPath>D:/RenaissanceCoders/github/unity-game-essentials/UnityGameEssentials/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VSCode.Editor">
- <HintPath>C:/Users/oneda/Documents/github/renaissance-coders/unity-game-essentials/UnityGameEssentials/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+ <HintPath>D:/RenaissanceCoders/github/unity-game-essentials/UnityGameEssentials/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>C:/Users/oneda/Documents/github/renaissance-coders/unity-game-essentials/UnityGameEssentials/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>D:/RenaissanceCoders/github/unity-game-essentials/UnityGameEssentials/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
- <HintPath>C:/Users/oneda/Documents/github/renaissance-coders/unity-game-essentials/UnityGameEssentials/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ <HintPath>D:/RenaissanceCoders/github/unity-game-essentials/UnityGameEssentials/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline">
- <HintPath>C:/Users/oneda/Documents/github/renaissance-coders/unity-game-essentials/UnityGameEssentials/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+ <HintPath>D:/RenaissanceCoders/github/unity-game-essentials/UnityGameEssentials/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Rider.Editor">
- <HintPath>C:/Users/oneda/Documents/github/renaissance-coders/unity-game-essentials/UnityGameEssentials/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+ <HintPath>D:/RenaissanceCoders/github/unity-game-essentials/UnityGameEssentials/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Sprite.Editor">
- <HintPath>C:/Users/oneda/Documents/github/renaissance-coders/unity-game-essentials/UnityGameEssentials/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+ <HintPath>D:/RenaissanceCoders/github/unity-game-essentials/UnityGameEssentials/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Tilemap.Editor">
- <HintPath>C:/Users/oneda/Documents/github/renaissance-coders/unity-game-essentials/UnityGameEssentials/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+ <HintPath>D:/RenaissanceCoders/github/unity-game-essentials/UnityGameEssentials/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VisualStudio.Editor">
- <HintPath>C:/Users/oneda/Documents/github/renaissance-coders/unity-game-essentials/UnityGameEssentials/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
+ <HintPath>D:/RenaissanceCoders/github/unity-game-essentials/UnityGameEssentials/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>C:/Users/oneda/Documents/github/renaissance-coders/unity-game-essentials/UnityGameEssentials/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>D:/RenaissanceCoders/github/unity-game-essentials/UnityGameEssentials/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.UI">
- <HintPath>C:/Users/oneda/Documents/github/renaissance-coders/unity-game-essentials/UnityGameEssentials/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ <HintPath>D:/RenaissanceCoders/github/unity-game-essentials/UnityGameEssentials/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine">
  <HintPath>D:/Program Files/Unity/Hub/Editor/2020.1.0a17/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
