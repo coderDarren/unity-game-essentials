@@ -47,9 +47,11 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\UnityCore\Audio\AudioController.cs" />
      <Compile Include="Assets\Scripts\UnityCore\Data\DataController.cs" />
+     <Compile Include="Assets\Scripts\UnityCore\Data\TestData.cs" />
      <Compile Include="Assets\Scripts\UnityCore\Menu\Page.cs" />
      <Compile Include="Assets\Scripts\UnityCore\Menu\PageController.cs" />
      <Compile Include="Assets\Scripts\UnityCore\Menu\PageType.cs" />
+     <Compile Include="Assets\Scripts\UnityCore\Menu\TestMenu.cs" />
      <Compile Include="Assets\Scripts\UnityCore\Scene\SceneController.cs" />
      <Compile Include="Assets\Scripts\UnityCore\Session\SessionController.cs" />
  <Reference Include="Unity.Timeline.Editor">
