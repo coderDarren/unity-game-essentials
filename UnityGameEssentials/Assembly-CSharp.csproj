@@ -46,6 +46,9 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\UnityCore\Audio\AudioController.cs" />
+     <Compile Include="Assets\Scripts\UnityCore\Audio\AudioTrack.cs" />
+     <Compile Include="Assets\Scripts\UnityCore\Audio\AudioType.cs" />
+     <Compile Include="Assets\Scripts\UnityCore\Audio\TestAudio.cs" />
      <Compile Include="Assets\Scripts\UnityCore\Data\DataController.cs" />
      <Compile Include="Assets\Scripts\UnityCore\Data\TestData.cs" />
      <Compile Include="Assets\Scripts\UnityCore\Menu\Page.cs" />
@@ -53,6 +56,8 @@
      <Compile Include="Assets\Scripts\UnityCore\Menu\PageType.cs" />
      <Compile Include="Assets\Scripts\UnityCore\Menu\TestMenu.cs" />
      <Compile Include="Assets\Scripts\UnityCore\Scene\SceneController.cs" />
+     <Compile Include="Assets\Scripts\UnityCore\Scene\SceneType.cs" />
+     <Compile Include="Assets\Scripts\UnityCore\Scene\TestScene.cs" />
      <Compile Include="Assets\Scripts\UnityCore\Session\SessionController.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>D:/RenaissanceCoders/github/unity-game-essentials/UnityGameEssentials/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
